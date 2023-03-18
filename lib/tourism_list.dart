@@ -62,7 +62,7 @@ class _TourismListState extends State<TourismPlaceList> {
     TourismPlace(
       nama: 'Patung Suro Boyo',
       location: 'Wonokromo',
-      imagesAsset: 'assets/images/sampoerna.jpg',
+      imagesAsset: 'assets/images/sby.jpg',
       Deskripsi: 'Patung Sura dan Baya (Jawa: Patung Suro lan Boyo) adalah sebuah patung yang merupakan lambang kota Surabaya. Patung ini berada di depan Kebun Binatang Surabaya. Patung ini terdiri atas dua hewan yaitu buaya dan hiu yang menjadi inspirasi nama kota Surabaya: ikan sura (hiu) dan baya (buaya). Patung ini dibangun pada tahun 1988oleh seorang pemahan yang bernama Sigit Margono dengan bahan semen dan di arsitek ii oleh Sutomo kusnadi patung ini bertahan sampai sekarang, terlepas dari kisah dahulu patung ini menjadi lambang keberanian para pemuda kota Surabaya alam mempertahankan daerah kekuasaannya',
       JamBuka: '08.00 - 21.00 WIB',
       harga: 'Gratis',
